@@ -1,0 +1,12 @@
+C:\Users\Angel Murchison\~tiy\week-2\day-2\numberguesser\Number-Guesser\Number-Guesser\bin\Debug\Number-Guesser.exe.config
+C:\Users\Angel Murchison\~tiy\week-2\day-2\numberguesser\Number-Guesser\Number-Guesser\bin\Debug\Number-Guesser.exe
+C:\Users\Angel Murchison\~tiy\week-2\day-2\numberguesser\Number-Guesser\Number-Guesser\bin\Debug\Number-Guesser.pdb
+C:\Users\Angel Murchison\~tiy\week-2\day-2\numberguesser\Number-Guesser\Number-Guesser\obj\Debug\Number-Guesser.csprojResolveAssemblyReference.cache
+C:\Users\Angel Murchison\~tiy\week-2\day-2\numberguesser\Number-Guesser\Number-Guesser\obj\Debug\Number-Guesser.exe
+C:\Users\Angel Murchison\~tiy\week-2\day-2\numberguesser\Number-Guesser\Number-Guesser\obj\Debug\Number-Guesser.pdb
+C:\Users\dev\Desktop\Angel's Stuff\NumberGuesser-master\Number-Guesser\Number-Guesser\bin\Debug\Number-Guesser.exe.config
+C:\Users\dev\Desktop\Angel's Stuff\NumberGuesser-master\Number-Guesser\Number-Guesser\obj\Debug\Number-Guesser.exe
+C:\Users\dev\Desktop\Angel's Stuff\NumberGuesser-master\Number-Guesser\Number-Guesser\obj\Debug\Number-Guesser.pdb
+C:\Users\dev\Desktop\Angel's Stuff\NumberGuesser-master\Number-Guesser\Number-Guesser\bin\Debug\Number-Guesser.exe
+C:\Users\dev\Desktop\Angel's Stuff\NumberGuesser-master\Number-Guesser\Number-Guesser\bin\Debug\Number-Guesser.pdb
+C:\Users\dev\Desktop\Angel's Stuff\NumberGuesser-master\Number-Guesser\Number-Guesser\obj\Debug\Number-Guesser.csprojResolveAssemblyReference.cache
