@@ -18,18 +18,18 @@ namespace Number_Guesser
 
         static void Main(string[] args)
         {
-            // Making variables to store guesses, generating and storing a random number. //
+            // Making variables to store guesses, generating and storing a random number.
             int myGuess = 0;
             Random rnd = new Random();
             int RandomNumber = rnd.Next(1, 100);
             List<int> guessedNumbers = new List<int> { };
 
-            // Asking for and storing a guess. //
+            // Asking for and storing a guess.
             Console.WriteLine("I just generated a number between 1 and 100.. I'll give you 5 tries to guess it.");
             Console.WriteLine(RandomNumber);
             makeAGuess(myGuess, guessedNumbers);
 
-            // Creating a loop to check the guess 5 times. //
+            // Creating a loop to check the guess 5 times.
             for (int i = 0; i < 5; i++)
             {
                 if (myGuess == RandomNumber)
